@@ -41,7 +41,7 @@
       <td>
         <a href="https://hadee-netflix.netlify.app">
           <img 
-            
+            align="center" 
             src="![netflix](https://user-images.githubusercontent.com/85422934/182275322-26170d75-f46c-48be-a1dd-2ae95b9333d5.png)" 
             width="300"
            >
