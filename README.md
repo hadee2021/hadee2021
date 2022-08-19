@@ -32,7 +32,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://simpe-youtube-study.netlify.app/" target="_blank">
+        <a href="https://simple-youtube-study.netlify.app/" target="_blank">
           <img 
             align="center" 
             src="https://user-images.githubusercontent.com/85422934/185584441-b8e66ba3-fbd0-4868-b451-2552467e0323.png" 
