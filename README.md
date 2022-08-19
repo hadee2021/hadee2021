@@ -32,7 +32,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://hadee-hmm-new-shopping.netlify.app/" target="_blank">
+        <a href="https://simpe-youtube-study.netlify.app/" target="_blank">
           <img 
             align="center" 
             src="https://user-images.githubusercontent.com/85422934/185584441-b8e66ba3-fbd0-4868-b451-2552467e0323.png" 
@@ -41,7 +41,7 @@
         </a>
       </td>
       <td>
-        <a href="https://hadee-netflix.netlify.app" target="_blank">
+        <a href="https://hadee-skill.netlify.app/" target="_blank">
           <img 
             align="center" 
             src="https://user-images.githubusercontent.com/85422934/185585136-4159691b-90be-497a-91ea-679d3bdb65c5.png" 
