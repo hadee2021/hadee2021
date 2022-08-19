@@ -33,8 +33,7 @@
         <a href="https://hadee-hmm-new-shopping.netlify.app/" target="_blank">
           <img 
             align="center" 
-            src="![youtube-study](https://user-images.githubusercontent.com/85422934/185584441-b8e66ba3-fbd0-4868-b451-2552467e0323.png)
-" 
+            src="https://user-images.githubusercontent.com/85422934/185584441-b8e66ba3-fbd0-4868-b451-2552467e0323.png" 
             width=300"
            >
         </a>
