@@ -42,7 +42,7 @@
         <a href="https://hadee-netflix.netlify.app" target="_blank">
           <img 
             align="center" 
-            src="https://user-images.githubusercontent.com/85422934/182275322-26170d75-f46c-48be-a1dd-2ae95b9333d5.png" 
+            src="https://user-images.githubusercontent.com/85422934/185585136-4159691b-90be-497a-91ea-679d3bdb65c5.png" 
             width="300"
            >
         </a>
