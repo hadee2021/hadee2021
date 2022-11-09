@@ -28,6 +28,8 @@
 
 
 
+
+
  <h2>My popular practice</h2>
  <table>
   <tbody>
@@ -45,7 +47,7 @@
         <a href="https://simple-youtube-study.netlify.app/" target="_blank">
           <img 
             align="center" 
-            src="https://user-images.githubusercontent.com/85422934/200773033-3133205c-44c8-469c-8b63-86edb6aefa96.png" 
+            src="https://user-images.githubusercontent.com/85422934/200773569-a73ede02-2eb2-4c97-bd7a-5febb71ccefb.png" 
             width=300"
            >
         </a>
