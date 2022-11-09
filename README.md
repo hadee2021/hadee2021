@@ -42,6 +42,15 @@
         </a>
       </td>
       <td>
+        <a href="https://simple-youtube-study.netlify.app/" target="_blank">
+          <img 
+            align="center" 
+            src="https://user-images.githubusercontent.com/85422934/200773033-3133205c-44c8-469c-8b63-86edb6aefa96.png" 
+            width=300"
+           >
+        </a>
+      </td>
+      <td>
         <a href="https://hadee-skill.netlify.app/" target="_blank">
           <img 
             align="center" 
