@@ -36,7 +36,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://simple-youtube-study.netlify.app/" target="_blank">
+        <a href="https://natural-science-a2e20.web.app/" target="_blank">
           <img 
             align="center" 
             src="https://user-images.githubusercontent.com/85422934/200773780-02aad150-e14b-468c-9543-9d91af9380b3.png" 
