@@ -33,7 +33,7 @@
 
 
 
- <h2>My popular practice</h2>
+ <h2>My popular service</h2>
  <table>
   <tbody>
     <tr>
