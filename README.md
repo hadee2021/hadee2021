@@ -7,6 +7,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?&style=flat-square&logo=Sass&logoColor=white)
 <br>
 ![shadcn](https://img.shields.io/badge/shadcn-000000?style=flatsquare&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9ImJsYWNrIi8+PC9zdmc+)
+![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-000000?style=flat-square&logo=https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=64&q=75&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?&style=flat-square&logo=mui&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093.svg?&style=flat-square&logo=styled-components&logoColor=white)
 <br>
