@@ -40,7 +40,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 <br>
-<h2>My current service (2024, 2025 ~)</h2>
+<h2>My current service (2024 ~)</h2>
 <table>
  <tbody>
   <tr> 
