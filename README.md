@@ -27,12 +27,14 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?&style=flat-square&logo=Supabase&logoColor=white)
 <br>
-![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
 ![AI Expert](https://img.shields.io/badge/AI%20Expert-0057D9.svg?&style=flat-square&logo=Artificial%20Intelligence&logoColor=white)
 <br>
+![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 <br>
 <h2>My current service (2024, 2025 ~)</h2>
 <table>
