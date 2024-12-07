@@ -1,38 +1,35 @@
-### Hi there 👋
+<div align="center">
 
-
-
-<h1>This is Main Page</h1>
-<p>
-  <em>
-    <h3>
-      Study Blog at <a href="https://hadee-skill.netlify.app/" target="_blank">Hadee Skill Blog</a>
-    </h3>
-  </em>
- <p>
-   
- <br/>
- <h2> My tech stack 📚 </h2>
-
-  ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-  ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-  ![MUI](https://img.shields.io/badge/MUI-0081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-  <br/>
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  <br/>
-  ![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-  ![Redux](https://img.shields.io/badge/redux-593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-  <br/>
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-  ![Netlify Status](https://api.netlify.com/api/v1/badges/f15f03f9-55d8-4adc-97d5-f6e085141610/deploy-status)
-  <br/>
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-  <br/>
-
-
+# 💻 Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=flat-square&logo=TailwindCSS&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?&style=flat-square&logo=Sass&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093.svg?&style=flat-square&logo=styled-components&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn-000000?style=flatsquare&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9ImJsYWNrIi8+PC9zdmc+)
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?&style=flat-square&logo=Redis&logoColor=white)
+<br>
+![React](https://img.shields.io/badge/React-000000.svg?&style=flat-square&logo=React&logoColor=61DAFB)
+![Vue3](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=flat-square&logo=Next.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F.svg?&style=flat-square&logo=Electron&logoColor=white)
+<br>
+![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?&style=flat-square&logo=React%20Query&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000.svg?&style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?&style=flat-square&logo=Supabase&logoColor=white)
+<br>
+![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
+![AI Expert](https://img.shields.io/badge/AI%20Expert-0057D9.svg?&style=flat-square&logo=Artificial%20Intelligence&logoColor=white)
+<br>
  <h2>My popular service</h2>
  <table>
   <tbody>
