@@ -30,7 +30,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 ![AI Expert](https://img.shields.io/badge/AI%20Expert-0057D9.svg?&style=flat-square&logo=Artificial%20Intelligence&logoColor=white)
 <br>
- <h2>My popular service</h2>
+ <h2>My past service</h2>
  <table>
   <tbody>
     <tr>
