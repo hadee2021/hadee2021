@@ -34,9 +34,9 @@
 ![AI Expert](https://img.shields.io/badge/AI%20Expert-0057D9.svg?&style=flat-square&logo=Artificial%20Intelligence&logoColor=white)
 <br>
 <br>
-<h2>My current service</h2>
+<h2>My current service (2024, 2025 ~)</h2>
 <hr/>
- <h2>My past service</h2>
+ <h2>My past service (2021 ~ 2022)</h2>
  <table>
   <tbody>
     <tr>
