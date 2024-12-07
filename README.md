@@ -23,6 +23,10 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F.svg?&style=flat-square&logo=Electron&logoColor=white)
 <br>
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?&style=flat-square&logo=React%20Query&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?&style=flat-square&logo=Recoil&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=flat-square&logo=Redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-181717.svg?&style=flat-square&logo=Zustand&logoColor=white)
+<br>
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000.svg?&style=flat-square&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?&style=flat-square&logo=Supabase&logoColor=white)
