@@ -34,29 +34,21 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
-![AI Expert](https://img.shields.io/badge/AI%20Expert-0057D9.svg?&style=flat-square&logo=Artificial%20Intelligence&logoColor=white)
+<br>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?&style=flat-square&logo=Playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=Jest&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?&style=flat-square&logo=Jira&logoColor=white)
 <br>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 <br>
-<h2>My current service (2024 ~)</h2>
-<table>
- <tbody>
-  <tr> 
-   <td>
-     <a href="https://iwantupgrade.com/" target="_blank">
-       <img 
-         align="center" 
-         src="https://github.com/user-attachments/assets/6a27bf3c-c5da-4bd2-988a-d41740083b51" 
-         width=300"
-        >
-     </a>
-   </td>
-  </tr>
- </tbody>
-</table>
-<hr/>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?&style=flat-square&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?&style=flat-square&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?&style=flat-square&logo=modelcontextprotocol&logoColor=white)
+<br>
+
+
  <h2>My past service (2021 ~ 2022)</h2>
  <table>
   <tbody>
